@@ -1,4 +1,4 @@
-# Arduino-Examples
+# Arduino,ESP32,STM32-Examples
 
 [Encoder](https://www.arduino.cc/reference/en/libraries/encoder/)
 --
@@ -7,6 +7,10 @@
 L298N
 --
 - https://github.com/AndreaLombardo/L298N
+
+MPU6050
+--
+- https://github.com/ibrahimcahit/STM32_MPU6050_KalmanFilter
 
 Self Balancing Robot
 --
