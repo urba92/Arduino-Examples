@@ -21,11 +21,21 @@ INA219
 GPS
 --
 - https://github.com/MasoudHeidary/GPS-for-STM32-PCB
+- https://github.com/nimaltd/NMEA
+
+WS2812
+--
+- [STM32-ARGB-DMA](https://github.com/Crazy-Geeks/STM32-ARGB-DMA)
+
+ST7735
+--
+- [STM32_Lib_TFT_ST7735](https://github.com/GolinskiyKonstantin/STM32_Lib_TFT_ST7735)
 
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
 - https://github.com/HZ1213825/HAL_STM32_Balance_Car
+- [PIFWRobot](https://github.com/tuannv0898/PIFer)
 
 flight controller
 --
