@@ -3,6 +3,7 @@
 [Encoder](https://www.arduino.cc/reference/en/libraries/encoder/)
 --
 - Automatic Addison, ["How to Calculate the Velocity of a DC Motor With Encoder".](https://automaticaddison.com/how-to-calculate-the-velocity-of-a-dc-motor-with-encoder/)
+- https://github.com/Saad-Imtiaz/RPM-Monitor/blob/main/RPM_Monitor_V3.0.ino
 
 L298N
 --
