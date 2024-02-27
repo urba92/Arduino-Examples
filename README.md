@@ -24,3 +24,4 @@ Self Balancing Robot
 flight controller
 --
 - [Liberty-X Flight Controller](https://github.com/F33RNI/Liberty-X)
+- [EmuFlight](https://github.com/emuflight/EmuFlight)
