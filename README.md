@@ -12,6 +12,10 @@ MPU6050
 --
 - https://github.com/ibrahimcahit/STM32_MPU6050_KalmanFilter
 
+INA219
+--
+- https://github.com/talhaSr/ina219
+
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
