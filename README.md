@@ -42,6 +42,10 @@ Self Balancing Robot
 - [ELEGOO TumbllerV1.1 Self-Balancing Car Tutorial](https://github.com/elegooofficial/ELEGOO-TumbllerV1.1-Self-Balancing-Car-Tutorial)
 - https://github.com/husarion/self-balancing-telepresence-robot
 - https://github.com/remrc/Self-Balancing-Cube
+- https://github.com/awk6873/arduino-BalancingRobot/blob/main/BalancingRobot/BalancingRobot.ino
+- https://github.com/martyg77/rtos/blob/master/src/Segway.cpp
+- https://github.com/Aaatresh/self-balancing-robot/blob/master/code/self_balancing_robot_angle_pos_pid/self_balancing_robot_angle_pos_pid.ino
+- https://github.com/UlrikHjort/Arduino-Self-Balancing-Robot-Simple-Complementary-Filter/blob/main/balanceRobot.simple.ino
 
 flight controller
 --
