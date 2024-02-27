@@ -16,6 +16,7 @@ INA219
 --
 - https://github.com/talhaSr/ina219
 - https://github.com/zyurttas/STM32---INA219-Library
+- https://github.com/komuch/PSM_INA219_STM32
 
 Self Balancing Robot
 --
