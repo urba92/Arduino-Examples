@@ -18,6 +18,10 @@ INA219
 - https://github.com/zyurttas/STM32---INA219-Library
 - https://github.com/komuch/PSM_INA219_STM32
 
+GPS
+--
+- https://github.com/MasoudHeidary/GPS-for-STM32-PCB
+
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
