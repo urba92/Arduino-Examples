@@ -15,3 +15,7 @@ MPU6050
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
+
+flight controller
+--
+- ["Liberty-X Flight Controller".](https://github.com/F33RNI/Liberty-X)
