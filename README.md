@@ -11,6 +11,8 @@ L298N
 MPU6050
 --
 - https://github.com/ibrahimcahit/STM32_MPU6050_KalmanFilter
+- https://github.com/Th-Havy/Simple-MPU6050-Arduino
+- https://github.com/MarkSherstan/MPU-6050-9250-I2C-CompFilter
 
 INA219
 --
@@ -36,6 +38,8 @@ Self Balancing Robot
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
 - https://github.com/HZ1213825/HAL_STM32_Balance_Car
 - [PIFWRobot](https://github.com/tuannv0898/PIFer)
+- https://github.com/husarion/self-balancing-telepresence-robot
+- https://github.com/remrc/Self-Balancing-Cube
 
 flight controller
 --
