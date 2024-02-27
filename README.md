@@ -20,6 +20,7 @@ INA219
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
+- https://github.com/HZ1213825/HAL_STM32_Balance_Car
 
 flight controller
 --
