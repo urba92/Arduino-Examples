@@ -15,6 +15,7 @@ MPU6050
 INA219
 --
 - https://github.com/talhaSr/ina219
+- https://github.com/zyurttas/STM32---INA219-Library
 
 Self Balancing Robot
 --
