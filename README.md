@@ -5,11 +5,6 @@
 - Automatic Addison, ["How to Calculate the Velocity of a DC Motor With Encoder".](https://automaticaddison.com/how-to-calculate-the-velocity-of-a-dc-motor-with-encoder/)
 - https://github.com/Saad-Imtiaz/RPM-Monitor/blob/main/RPM_Monitor_V3.0.ino
 
-MPU6050
---
-- https://github.com/ibrahimcahit/STM32_MPU6050_KalmanFilter
-- https://github.com/Th-Havy/Simple-MPU6050-Arduino
-- https://github.com/MarkSherstan/MPU-6050-9250-I2C-CompFilter
 
 GPS
 --
