@@ -2,10 +2,10 @@
 
 Self Balancing Robot
 --
-- https://github.com/osoyoo/Osoyoo-development-kits/tree/master
+- 
 - https://github.com/HZ1213825/HAL_STM32_Balance_Car
 - [PIFWRobot](https://github.com/tuannv0898/PIFer)
-- [ELEGOO TumbllerV1.1 Self-Balancing Car Tutorial](https://github.com/elegooofficial/ELEGOO-TumbllerV1.1-Self-Balancing-Car-Tutorial)
+- 
 - https://github.com/husarion/self-balancing-telepresence-robot
 - https://github.com/remrc/Self-Balancing-Cube
 - https://github.com/awk6873/arduino-BalancingRobot/blob/main/BalancingRobot/BalancingRobot.ino
