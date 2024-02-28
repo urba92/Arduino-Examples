@@ -11,10 +11,6 @@ GPS
 - https://github.com/MasoudHeidary/GPS-for-STM32-PCB
 - https://github.com/nimaltd/NMEA
 
-WS2812
---
-- [STM32-ARGB-DMA](https://github.com/Crazy-Geeks/STM32-ARGB-DMA)
-
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
