@@ -11,12 +11,6 @@ MPU6050
 - https://github.com/Th-Havy/Simple-MPU6050-Arduino
 - https://github.com/MarkSherstan/MPU-6050-9250-I2C-CompFilter
 
-INA219
---
-- https://github.com/talhaSr/ina219
-- https://github.com/zyurttas/STM32---INA219-Library
-- https://github.com/komuch/PSM_INA219_STM32
-
 GPS
 --
 - https://github.com/MasoudHeidary/GPS-for-STM32-PCB
