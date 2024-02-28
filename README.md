@@ -48,6 +48,7 @@ Self Balancing Robot
 - https://github.com/UlrikHjort/Arduino-Self-Balancing-Robot-Simple-Complementary-Filter/blob/main/balanceRobot.simple.ino
 - https://github.com/halstar/MySelfBalancedRobot/blob/master/robot.py
 - https://github.com/heethesh/Balance-Bot
+- https://github.com/josealejandro2928/Self-Balancing-Arduino-Robot-Controller
 
 flight controller
 --
