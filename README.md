@@ -46,6 +46,8 @@ Self Balancing Robot
 - https://github.com/martyg77/rtos/blob/master/src/Segway.cpp
 - https://github.com/Aaatresh/self-balancing-robot/blob/master/code/self_balancing_robot_angle_pos_pid/self_balancing_robot_angle_pos_pid.ino
 - https://github.com/UlrikHjort/Arduino-Self-Balancing-Robot-Simple-Complementary-Filter/blob/main/balanceRobot.simple.ino
+- https://github.com/halstar/MySelfBalancedRobot/blob/master/robot.py
+- https://github.com/heethesh/Balance-Bot
 
 flight controller
 --
