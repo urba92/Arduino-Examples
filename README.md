@@ -5,12 +5,6 @@
 - Automatic Addison, ["How to Calculate the Velocity of a DC Motor With Encoder".](https://automaticaddison.com/how-to-calculate-the-velocity-of-a-dc-motor-with-encoder/)
 - https://github.com/Saad-Imtiaz/RPM-Monitor/blob/main/RPM_Monitor_V3.0.ino
 
-
-GPS
---
-- https://github.com/MasoudHeidary/GPS-for-STM32-PCB
-- https://github.com/nimaltd/NMEA
-
 Self Balancing Robot
 --
 - https://github.com/osoyoo/Osoyoo-development-kits/tree/master
