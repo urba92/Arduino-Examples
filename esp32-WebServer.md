@@ -14,7 +14,6 @@ if (!LittleFS.begin()) {
   TRACE("[OK] LittleFS mounted successfully\n");
 }
 ```
-
 ```cpp
 // Connect to Wi-Fi
 TRACE("[INFO] Trying to connect to Wi-Fi");
@@ -33,4 +32,21 @@ while (WiFi.status() != WL_CONNECTED) {
 }
 TRACE("\n[OK] Connection to Wi-Fi successful\n");
 TRACE("[INFO] IP address: %s\n", WiFi.localIP().toString().c_str());
+```
+```cpp
+// Start mDNS
+if (!MDNS.begin(hostname)) {
+  TRACE("[ERROR] Error setting up MDNS responder");
+  while (1) {
+    delay(1000);
+  }
+}
+TRACE("[OK] mDNS responder started");
+```
+```cpp
+// Start the web server
+TRACE("[INFO] Starting server");
+server.serveStatic("/", LittleFS, "/").setDefaultFile("index.html");
+server.begin();
+TRACE("[OK] HTTP server started");  
 ```
