@@ -1,5 +1,7 @@
 - [ESP8266 NodeMCU: Create a Wi-Fi Manager (AsyncWebServer library)](https://randomnerdtutorials.com/esp8266-nodemcu-wi-fi-manager-asyncwebserver/)
 - [ESP32 Web Server: Display Sensor Readings in Gauges](https://randomnerdtutorials.com/esp32-web-server-gauges/)
+- [ESP32 Web Server using SPIFFS (SPI Flash File System)](https://randomnerdtutorials.com/esp32-web-server-spiffs-spi-flash-file-system/)
+- [ESP32 RGB LED Controller with Color Picker over WebSockets](https://www.espboards.dev/blog/esp32-rgb-color-picker/)
 
 ```cpp
 // Initialize LittleFS
