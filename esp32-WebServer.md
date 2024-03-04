@@ -15,6 +15,9 @@ if (!LittleFS.begin()) {
 }
 ```
 ```cpp
+const uint8_t maxAttempts = 20; // Maximum number of connection attempts
+const uint32_t attemptInterval = 500; // Interval between connection attempts
+
 // Connect to Wi-Fi
 TRACE("[INFO] Trying to connect to Wi-Fi");
 WiFi.mode(WIFI_STA);
@@ -34,6 +37,8 @@ TRACE("\n[OK] Connection to Wi-Fi successful\n");
 TRACE("[INFO] IP address: %s\n", WiFi.localIP().toString().c_str());
 ```
 ```cpp
+const char* hostname = "esp32";
+
 // Start mDNS
 if (!MDNS.begin(hostname)) {
   TRACE("[ERROR] Error setting up MDNS responder");
