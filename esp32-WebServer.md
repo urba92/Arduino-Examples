@@ -16,7 +16,7 @@ if (!LittleFS.begin()) {
 ```
 ```cpp
 const uint8_t maxAttempts = 20; // Maximum number of connection attempts
-const uint32_t attemptInterval = 500; // Interval between connection attempts
+const1 uint32_t attemptInterval = 500; // Interval between connection attempts
 
 // Connect to Wi-Fi
 TRACE("[INFO] Trying to connect to Wi-Fi");
